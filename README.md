@@ -1,0 +1,2 @@
+# githubActions-sakuraCloud
+GitHub Actionsからさくらのクラウドへゴニョゴニョする
